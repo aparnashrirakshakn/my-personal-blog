@@ -26,7 +26,6 @@
   .blog-post-side-container {
     flex: 30%;
     background-color: #F4F3EF;
-    /* change all this to shorthand */
     padding-top: 30px;
     padding-left: 50px;
     padding-right: 30px;

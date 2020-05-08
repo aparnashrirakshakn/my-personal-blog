@@ -58,12 +58,12 @@ img {
     color: black;
     padding: 1rem;
     margin-top: 1rem;
-    /* width: 21rem; */
+    width: 21rem;
   }
 
   .card-img-top {
     align-self: center;
-    width: 21rem;
+    width: 19rem;
     height: 12rem;
   }
 
@@ -81,4 +81,3 @@ img {
  i {
   padding: 2rem;
 }
-  
